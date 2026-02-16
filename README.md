@@ -1,16 +1,35 @@
-### Hi there 👋
+# 👋 Hi, I'm Sam
 
-<!--
-**samujjalm/samujjalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with **16+ years of experience** building and operating **large-scale distributed systems** in **fintech and digital assets**.
 
-Here are some ideas to get you started:
+I focus on designing **reliable, secure, and scalable backend platforms**, with particular interest in systems that operate under **high correctness, availability, and regulatory constraints**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- Backend and distributed systems in **fintech and crypto**
+- Customer identity, onboarding, and lifecycle platforms
+- Digital asset platforms (wallets, staking, settlement, reconciliation)
+- Cloud-native systems with strong operational guarantees
+
+I typically work end-to-end: **architecture → implementation → production operations → long-term ownership**.
+
+---
+
+## Technical focus
+
+- **Languages**: Kotlin, Java  
+- **Backend**: Spring Boot, REST, gRPC (Protobuf)  
+- **Data**: Postgres, Snowflake  
+- **Cloud & Platform**: AWS, Kubernetes, Terraform  
+- **Data Platform**: dbt  
+- **Systems concerns**: scalability, fault tolerance, observability, security
+
+---
+
+## Get in touch
+
+- LinkedIn: https://www.linkedin.com/in/samujjal/
+
+Always happy to discuss **distributed systems, backend architecture, and engineering at scale**.
