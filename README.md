@@ -19,7 +19,7 @@ I typically work end-to-end: **architecture → implementation → production op
 
 ## Technical focus
 
-- **Languages**: Kotlin, Java  
+- **Languages**: Kotlin, Java, Rust  
 - **Backend**: Spring Boot, REST, gRPC (Protobuf)  
 - **Data**: Postgres, Snowflake  
 - **Cloud & Platform**: AWS, Kubernetes, Terraform  
